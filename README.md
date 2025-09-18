@@ -2,7 +2,7 @@
 
 This repository contains the assignments we developed during the academic year **2024–2025** for the course **Security in Systems and Services**.  
 
-## Grade
+## Final Grade
 
 8.5/10
 
